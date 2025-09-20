@@ -15,8 +15,7 @@
      [23 46]]
     ```
   - Higher recall for "Not Survived", lower recall for "Survived" due to class imbalance.  
-- **Visualizations:** Histograms and boxplots for feature distributions, Confusion Matrix for performance evaluation.  
-- **Report:** LaTeX report (`report.tex`) included, covering dataset, preprocessing, logistic regression theory, and results.  
+- **Visualizations:** Histograms and boxplots for feature distributions, Confusion Matrix for performance evaluation.   
 - **Future Work:**
   - Add feature engineering (family size, titles).  
   - Handle class imbalance (oversampling, class weights).  
